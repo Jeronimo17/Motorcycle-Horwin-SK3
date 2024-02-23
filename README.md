@@ -1,6 +1,6 @@
 # Motorcycle-Horwin-SK3
 
-Pinout Charger connector **M25 2 + 1 + 5**
+Pinout charger connector **M25 2 + 1 + 5**
 
 The charger is **84V-8A** (20S normal lithium).
 
