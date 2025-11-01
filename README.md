@@ -8,4 +8,4 @@ The charger is **84V-8A** (20S normal lithium).
 
 I thought all those pins were for data, luckily the charger only connects + and -.
 
-![A966ec98b6f0640a99fcea756121f38a8B](https://github.com/Jeronimo17/Motorcycle-Horwin-SK3/assets/4985763/88c392a8-86ba-4a7e-b6e5-f791ce381131)
+![Horwin SK3 Cargador](https://github.com/user-attachments/assets/6f7a5d6e-87e0-4c4f-a7f1-c6f1c2581334)
